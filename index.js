@@ -34,6 +34,5 @@ const pinFileToIPFS = async () => {
     }
 }
 pinFileToIPFS()
-```
-CID of the image : QmPS8XMKg2A3G8M3ajZPDdX3D2WygRPiTLEv6zA3mSmEcz
-```	
+
+//CID of the image : QmPS8XMKg2A3G8M3ajZPDdX3D2WygRPiTLEv6zA3mSmEcz	
